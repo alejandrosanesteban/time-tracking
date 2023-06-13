@@ -127,6 +127,7 @@ body {
     border-radius: 20px;
     background-color: var(--dark-blue);
     cursor: pointer;
+    z-index: 10;
 }
 
 .data:hover {
